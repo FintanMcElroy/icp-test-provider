@@ -1,0 +1,16 @@
+{
+	"name": "icp-test-provider",
+	"version": "0.0.1",
+	"description": "Provider example for ICP",
+	"scripts": {
+		"start": "node app.js"
+	},
+	"dependencies": {
+		"express": "^4.16.x",
+		"url": "^0.11.x"
+	},
+	"repository": {},
+	"engines": {
+		"node": "8.11.x"
+	}
+}
